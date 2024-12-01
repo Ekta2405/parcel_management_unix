@@ -1,0 +1,5 @@
+Customer ID | Booking ID | Receiver Name | Delivered Address | Amount | Status
+1001 | 21 | Charan | Coimbator | 1000 | Pending
+1002 | 22 | Juhi | Bangalore | 2000 | Pending
+1003 | 23 | Nikki | Mumbai | 3000 | Pending
+1004 | 24 | Vishnu|Hyderabad | 5000 | Pending
